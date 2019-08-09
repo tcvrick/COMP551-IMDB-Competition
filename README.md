@@ -7,6 +7,8 @@ This repo contains the software used to produce the first-place submission of th
 on the public and private leaderboards, respectively.
 
 Due to the rapid nature of Kaggle competitions, the code turned out quite messy. I have decided to leave things as they were, but if you have any questions feel free to let know.
+Finally, I would like to acknowledge my teammates Justin Whatley and Raed Abdo for their contributions
+to this project.
 
 
 ## Installation Instructions
